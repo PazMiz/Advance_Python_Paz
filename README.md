@@ -1,7 +1,5 @@
 # Bank Customer Management App
 
-![Bank App Screenshot](/path/to/screenshot.png)  # Replace with an actual screenshot of your app
-
 ## Description
 
 The Bank Customer Management App is a simple Python application built using the Kivy framework. It allows you to manage and interact with different categories of bank customers, including VIP customers, premium customers, and regular customers.
@@ -56,8 +54,5 @@ Copy code
 ## Credits
 
 - Kivy: https://kivy.org
-- Picsum Photos: https://picsum.photos
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
