@@ -17,7 +17,7 @@ The Bank Customer Management App is a simple Python application built using the 
 
 1. Clone the repository to your local machine.
 
-git clone https://github.com/your_username/bank-app.git
+git clone https://github.com/PazMiz/Advance_Python
 
 css
 Copy code
