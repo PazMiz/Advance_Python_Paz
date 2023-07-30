@@ -1,0 +1,20 @@
+2023-07-30 12:26:57,181 - INFO - Function 'add' started. Args: (10, 5), Kwargs: {}
+2023-07-30 12:26:57,181 - INFO - Function 'add' completed successfully. Result: 15
+2023-07-30 12:26:57,181 - INFO - Result of 10 add 5 is 15
+2023-07-30 12:28:54,228 - INFO - Function 'subtract' started. Args: (50, 2), Kwargs: {}
+2023-07-30 12:28:54,228 - INFO - Function 'subtract' completed successfully. Result: 48
+2023-07-30 12:28:54,228 - INFO - Result of 50 subtract 2 is 48
+2023-07-30 12:29:58,354 - INFO - Function 'add' started. Args: (20, 20), Kwargs: {}
+2023-07-30 12:29:58,354 - INFO - Function 'add' completed successfully. Result: 40
+2023-07-30 12:29:58,354 - INFO - Result of 20 add 20 is 40
+2023-07-30 12:31:39,063 - CRITICAL - Unexpected error: Invalid operator. Supported operators: add, subtract, multiply, divide
+2023-07-30 12:32:14,941 - CRITICAL - Unexpected error: Invalid operator. Supported operators: add, subtract, multiply, divide
+2023-07-30 12:33:28,212 - INFO - Function 'divide' started. Args: (22, 0), Kwargs: {}
+2023-07-30 12:33:28,213 - CRITICAL - Function 'divide' failed with error: Cannot divide by zero.
+2023-07-30 12:33:28,213 - CRITICAL - Unexpected error: Cannot divide by zero.
+2023-07-30 12:34:52,985 - INFO - Function 'multiply' started. Args: (20, 20), Kwargs: {}
+2023-07-30 12:34:52,985 - INFO - Function 'multiply' completed successfully. Result: 400
+2023-07-30 12:34:52,985 - INFO - Result of 20 multiply 20 is 400
+2023-07-30 12:41:03,106 - INFO - Function 'multiply' started. Args: (50, 2), Kwargs: {}
+2023-07-30 12:41:03,107 - INFO - Function 'multiply' completed successfully. Result: 100
+2023-07-30 12:41:03,107 - INFO - Result of 50 multiply 2 is 100

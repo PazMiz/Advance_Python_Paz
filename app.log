@@ -1,0 +1,66 @@
+2023-07-30 12:06:51 - INFO - Function 'do_something_unstable' started. Args: (), Kwargs: {'max_attempts': 3, 'max_wait_time': 3}
+Function 'do_something_unstable' started. Args: (), Kwargs: {'max_attempts': 3, 'max_wait_time': 3}
+2023-07-30 12:06:51 - INFO - Function 'do_something_unstable' completed successfully. Execution time: 0.00 seconds. Expected: Operation successful!, Got: Operation successful!
+Function 'do_something_unstable' completed successfully. Execution time: 0.00 seconds. Expected: Operation successful!, Got: Operation successful!
+2023-07-30 12:06:51 - INFO - Operation successful!
+Operation successful!
+2023-07-30 12:06:54 - INFO - Function 'do_something_unstable' started. Args: (), Kwargs: {'max_attempts': 3, 'max_wait_time': 3}
+Function 'do_something_unstable' started. Args: (), Kwargs: {'max_attempts': 3, 'max_wait_time': 3}
+2023-07-30 12:06:54 - INFO - Function 'do_something_unstable' completed successfully. Execution time: 0.00 seconds. Expected: Operation successful!, Got: Operation successful!
+Function 'do_something_unstable' completed successfully. Execution time: 0.00 seconds. Expected: Operation successful!, Got: Operation successful!
+2023-07-30 12:06:54 - INFO - Operation successful!
+Operation successful!
+2023-07-30 12:06:55 - INFO - Function 'do_something_unstable' started. Args: (), Kwargs: {'max_attempts': 3, 'max_wait_time': 3}
+Function 'do_something_unstable' started. Args: (), Kwargs: {'max_attempts': 3, 'max_wait_time': 3}
+2023-07-30 12:06:55 - INFO - Function 'do_something_unstable' completed successfully. Execution time: 0.00 seconds. Expected: Operation successful!, Got: Operation successful!
+Function 'do_something_unstable' completed successfully. Execution time: 0.00 seconds. Expected: Operation successful!, Got: Operation successful!
+2023-07-30 12:06:55 - INFO - Operation successful!
+Operation successful!
+2023-07-30 12:06:58 - INFO - Function 'do_something_unstable' started. Args: (), Kwargs: {'max_attempts': 3, 'max_wait_time': 3}
+Function 'do_something_unstable' started. Args: (), Kwargs: {'max_attempts': 3, 'max_wait_time': 3}
+2023-07-30 12:06:58 - INFO - Function 'do_something_unstable' completed successfully. Execution time: 0.00 seconds. Expected: Operation successful!, Got: Operation successful!
+Function 'do_something_unstable' completed successfully. Execution time: 0.00 seconds. Expected: Operation successful!, Got: Operation successful!
+2023-07-30 12:06:58 - INFO - Operation successful!
+Operation successful!
+2023-07-30 12:07:00 - INFO - Function 'do_something_unstable' started. Args: (), Kwargs: {'max_attempts': 3, 'max_wait_time': 3}
+Function 'do_something_unstable' started. Args: (), Kwargs: {'max_attempts': 3, 'max_wait_time': 3}
+2023-07-30 12:07:00 - INFO - Function 'do_something_unstable' completed successfully. Execution time: 0.00 seconds. Expected: Operation successful!, Got: Operation successful!
+Function 'do_something_unstable' completed successfully. Execution time: 0.00 seconds. Expected: Operation successful!, Got: Operation successful!
+2023-07-30 12:07:00 - INFO - Operation successful!
+Operation successful!
+2023-07-30 12:07:40 - INFO - Function 'do_something_unstable' started. Args: (), Kwargs: {'max_attempts': 3, 'max_wait_time': 3}
+Function 'do_something_unstable' started. Args: (), Kwargs: {'max_attempts': 3, 'max_wait_time': 3}
+2023-07-30 12:07:40 - INFO - Function 'do_something_unstable' completed successfully. Execution time: 0.00 seconds. Expected: Operation successful!, Got: Operation successful!
+Function 'do_something_unstable' completed successfully. Execution time: 0.00 seconds. Expected: Operation successful!, Got: Operation successful!
+2023-07-30 12:07:40 - INFO - Operation successful!
+Operation successful!
+2023-07-30 12:07:40 - INFO - Function 'do_something_unstable' started. Args: (), Kwargs: {'max_attempts': 3, 'max_wait_time': 3}
+Function 'do_something_unstable' started. Args: (), Kwargs: {'max_attempts': 3, 'max_wait_time': 3}
+2023-07-30 12:07:40 - ERROR - Attempt 1 failed: Something went wrong!
+Attempt 1 failed: Something went wrong!
+2023-07-30 12:07:40 - WARNING - Retrying in 2 seconds...
+Retrying in 2 seconds...
+2023-07-30 12:07:42 - INFO - Function 'do_something_unstable' completed successfully. Execution time: 2.01 seconds. Expected: Operation successful!, Got: Operation successful!
+Function 'do_something_unstable' completed successfully. Execution time: 2.01 seconds. Expected: Operation successful!, Got: Operation successful!
+2023-07-30 12:07:42 - INFO - Operation successful!
+Operation successful!
+2023-07-30 12:07:42 - INFO - Function 'do_something_unstable' started. Args: (), Kwargs: {'max_attempts': 3, 'max_wait_time': 3}
+Function 'do_something_unstable' started. Args: (), Kwargs: {'max_attempts': 3, 'max_wait_time': 3}
+2023-07-30 12:07:42 - ERROR - Attempt 1 failed: Something went wrong!
+Attempt 1 failed: Something went wrong!
+2023-07-30 12:07:42 - WARNING - Retrying in 3 seconds...
+Retrying in 3 seconds...
+2023-07-30 12:07:45 - ERROR - Attempt 2 failed: Something went wrong!
+Attempt 2 failed: Something went wrong!
+2023-07-30 12:07:45 - WARNING - Retrying in 3 seconds...
+
+2023-07-30 12:07:48 - INFO - Function 'do_something_unstable' completed successfully. Execution time: 6.01 seconds. Expected: Operation successful!, Got: Operation successful!
+Function 'do_something_unstable' completed successfully. Execution time: 6.01 seconds. Expected: Operation successful!, Got: Operation successful!
+2023-07-30 12:07:48 - INFO - Operation successful!
+Operation successful!
+2023-07-30 12:07:49 - INFO - Function 'do_something_unstable' started. Args: (), Kwargs: {'max_attempts': 3, 'max_wait_time': 3}
+Function 'do_something_unstable' started. Args: (), Kwargs: {'max_attempts': 3, 'max_wait_time': 3}
+2023-07-30 12:07:49 - INFO - Function 'do_something_unstable' completed successfully. Execution time: 0.00 seconds. Expected: Operation successful!, Got: Operation successful!
+Function 'do_something_unstable' completed successfully. Execution time: 0.00 seconds. Expected: Operation successful!, Got: Operation successful!
+2023-07-30 12:07:49 - INFO - Operation successful!
+Operation successful!
