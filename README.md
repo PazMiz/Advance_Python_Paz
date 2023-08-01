@@ -48,11 +48,10 @@ Copy code
 
 - The app creates instances of bank customers, including VIP, premium, and regular customers.
 - The main screen displays a list of customers with their names, account balances, and action buttons.
-- Clicking on a VIP customer's name allows you to deposit money to their account.
 - Clicking on a premium customer's name allows you to select an action (deposit or withdraw) and perform the action accordingly.
 
 ## Credits
-
+PazMiz
 - Kivy: https://kivy.org
 
 
